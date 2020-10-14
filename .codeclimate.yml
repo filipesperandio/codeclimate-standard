@@ -1,6 +1,6 @@
 engines:
   standard:
     enabled: true
-    channel: latest
+    channel: beta
 exclude_paths:
 - spec/
